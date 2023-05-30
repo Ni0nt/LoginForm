@@ -22,4 +22,5 @@ Untuk menggunakan tampilan dan efek dengan benar, pastikan file style.css terhub
 Ini hanya ringkasan singkat mengenai kode HTML dan CSS yang diberikan. Dalam praktiknya, Anda dapat mengembangkan lebih lanjut dan menyesuaikan dengan kebutuhan Anda.
 
 _### Catatan Penting!!!_
+
 Kode ini merupakan hasil pembuatan ulang berdasarkan tutorial dari YouTube untuk meningkatkan pengetahuan dan keterampilan dalam memahami penggunaan HTML dan CSS.
